@@ -1,0 +1,2 @@
+INDEX VERSION 1.130+C:\Users\Andrea\Desktop\Andrea\Programmazione II\Progetto Ingegneria\.metadata\.plugins\org.eclipse.jdt.core
+672306824.index

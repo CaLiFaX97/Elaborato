@@ -67,7 +67,8 @@ public class LoginController implements ActionListener{
 	public void ActionPerformed(ActionEvent ae) {
 		 if (vista.magazzino.isSelected())
         	 vista.p1.setEnabled(true);
-		 //ciaoooooo
+		 //commento per git hub
+		 
 		
 	}
 	
